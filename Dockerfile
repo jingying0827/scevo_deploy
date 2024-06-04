@@ -1,4 +1,4 @@
-FROM jingyingwong/scevo_base:latest
+FROM jingyingwong/scevov2_base:latest
 
 #COPY renv.lock.prod renv.lock
 #RUN R -e 'renv::restore()'
